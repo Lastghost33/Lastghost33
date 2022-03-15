@@ -1,7 +1,4 @@
-
-
-
-<div class="tenor-gif-embed" data-postid="8674130" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/anime-computer-pc-playing-gaming-gif-8674130">Anime Computer GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![anime-computer](https://user-images.githubusercontent.com/67192306/158385354-bd40ee52-52ec-45ae-a530-f84a09a0d4ec.gif)
 
 
 <!--
